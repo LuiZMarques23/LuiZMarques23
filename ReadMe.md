@@ -1,11 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&midnight-purple&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+e+Luiz+Henrique+Marques+Silva;tenho+29+anos+;sou+Brasileiro,+MG;+Estudante+Full-Stack+desenvolvimento+na+rocketseat+;Graduado+em+Redes+Computacao+Univercidade+Uninter+;Estou+a+procura+Estagio+DEV;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+e+Luiz+Henrique+Marques+Silva;tenho+29+anos+;sou+Brasileiro,+MG;+Estudante+Full-Stack+desenvolvimento+na+rocketseat+;Graduado+em+Redes+Computacao+Univercidade+Uninter+;Estou+a+procura+Estagio+DEV;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuiZMarques23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiZMarques23&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
- 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LuizMarques23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuizMarques23&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMarques23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuiZMarques23&theme=gotham)
   
   <p align="center">
@@ -13,8 +14,8 @@
 </p>
   
   ### Main skills:
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logocolor=A020F0)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logocolor=A020F0)
   
   
 ### Tools:
@@ -34,4 +35,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&midnight-purple&height=120&section=footer"/>
